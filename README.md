@@ -1,6 +1,6 @@
 # 💫 About Me:
-.NET platformunda Asp.Net MVC ile kurumsal projelerde tecrübe kazanmış bir yazılım geliştiricisiyim. Entity Framework ve MSSQL ile veri odaklı çözümler ürettim. Son bir yıllık girişimcilik tecrübemde edindiğim süreç yönetimi ve veri analizi yetkinliklerimi, teknik bilgimle birleştirmeye odaklandım. Şu anda kariyerimde bir sonraki adımı atarak Arı Bilgi'de Asp.Net Core eğitimi
-almaktayım. Hedefim, mevcut .NET tecrübemi modern mimarilerle (Asp.Net Core) güçlendirerek bu alanda projeler geliştirmektir.
+.NET ekosisteminde deneyimli, kurumsal projelerde Asp.Net MVC, EF ve MSSQL ile çözümler üretmiş bir yazılım geliştiriciyim. Girişimcilik tecrübemi teknik yetkinliklerimle birleştirerek, şu an Arı Bilgi bünyesinde Asp.Net Core ve modern mimariler üzerine uzmanlaşıyorum.
+Veri odaklı ve ölçeklenebilir projeler geliştirmeye odaklandım.
 
 
 ## 🌐 Socials:
