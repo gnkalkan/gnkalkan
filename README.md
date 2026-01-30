@@ -4,8 +4,11 @@
 # 💫 About Me:
 .NET ekosisteminde deneyimli, kurumsal projelerde Asp.Net MVC, EF ve MSSQL ile çözümler üretmiş bir yazılım geliştiriciyim. Girişimcilik tecrübemi teknik yetkinliklerimle birleştirerek, şu an Arı Bilgi bünyesinde Asp.Net Core ve modern mimariler üzerine uzmanlaşıyorum.
 Veri odaklı ve ölçeklenebilir projeler geliştirmeye odaklandım.
-<div align="center">
+
 # 📊 GitHub Stats:
+
+<div align="center">
+
 
 ![](https://github-readme-stats.vercel.app/api?username=gnkalkan&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gnkalkan&theme=shadow_red&hide_border=false)<br/>
