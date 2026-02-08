@@ -9,8 +9,6 @@ Veri odaklı ve ölçeklenebilir projeler geliştirmeye odaklandım.
 
 <div align="center">
 
-[![Gurkan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gnkalkan&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnkalkan&layout=compact&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
