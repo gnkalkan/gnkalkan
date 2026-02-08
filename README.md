@@ -11,10 +11,6 @@ Veri odaklı ve ölçeklenebilir projeler geliştirmeye odaklandım.
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnkalkan&layout=compact&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gnkalkan&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 </div>
